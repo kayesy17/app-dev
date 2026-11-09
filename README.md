@@ -4,7 +4,7 @@ My first repository
 # PEN15
 
 ## My Favorite Series
-![PEN15 GIF](https://media.tenor.com/)
+
 
 PEN15 is my favorite comedy series.
 
