@@ -1,6 +1,7 @@
 # app-dev
 My first repository
 
+![Maya from PEN15](Maya.png)
 # PEN15
 
 ## My Favorite Series
